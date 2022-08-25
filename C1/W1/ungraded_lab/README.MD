@@ -1,3 +1,4 @@
+# [Coursera] C1W1 Introduction to TensorFlow , Machine Learning , DeepLearning - A new programming paradigm
 
 > **Goal**
 * 집 값 예측의 정확도 모니터
