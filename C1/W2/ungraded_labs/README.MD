@@ -1,4 +1,6 @@
 
+# [Coursera] C1W2 Introduction to TensorFlow , Machine Learning , DeepLearning - Introduction to Computer Vision
+
 > **Goal**
 * training 동안 model 의 loss 와 accuracy 를 추적하기 위한 콜백 function 사용
 * layer 의 size 가 network 예측과 training speed 에 미치는 영향 예측
